@@ -1,0 +1,45 @@
+#form{
+    text-align: center;
+    margin: 20vh 20vw 20vh 35vw;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#email{
+    margin-left: 35px;
+    padding: 10px;
+}
+#pss{
+    padding: 10px;
+}
+
+
+
+#cr-acc{
+    cursor: pointer;
+}
+
+
+span{
+    color: blue;
+}
+
+
+#reg{
+    text-align: center;
+    margin: 20vh 20vw 20vh 35vw;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    
+}
+
+#logout{
+        display: flex;
+        gap: 5px;
+        margin: 0 0 0 90vw ;
+        cursor: pointer;
+}
